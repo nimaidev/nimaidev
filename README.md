@@ -12,7 +12,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimaidev&show_icons=true&theme=tokyonight)](https://github.com/nimaidev)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimaidev&cache_seconds=86400&show_icons=true&theme=tokyonight)](https://github.com/nimaidev)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=nimaidev&theme=dark)](https://git.io/streak-stats)
 
 
