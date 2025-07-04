@@ -10,6 +10,13 @@
 ## 📈 My Coding Journey
 
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 0 secs
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimaidev&cache_seconds=86400&show_icons=true&theme=tokyonight)](https://github.com/nimaidev)
