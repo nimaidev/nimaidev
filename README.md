@@ -14,7 +14,7 @@
 <!--END_SECTION:waka-->
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nimaidev&show_icons=true&theme=tokyonight)](https://github.com/0x4E43)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=0x4E43&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nimaidev&theme=dark)](https://git.io/streak-stats)
 
 ---
 
