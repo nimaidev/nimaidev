@@ -1,4 +1,4 @@
-
+[![wakatime](https://wakatime.com/badge/user/50351697-2c5d-4e77-95ef-993aeabbf85b.svg)](https://wakatime.com/@50351697-2c5d-4e77-95ef-993aeabbf85b)
 # Hi, I'm Nimai 👋
 
 🔧 Software Developer passionate about making **open‑source approachable**, building **community-driven tools**, and exploring **Machine Learning**.
