@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 hrs 27 mins
+Total Time: 13 hrs 6 mins
 
-Java         5 hrs 34 mins   ███████████░░░░░░░░░░░░░░   44.55 %
-Go           2 hrs 51 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.80 %
-TypeScript   2 hrs 36 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
-XML          31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-Makefile     25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Java         7 hrs 21 mins   ██████████████░░░░░░░░░░░   56.09 %
+TypeScript   3 hrs 34 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.25 %
+Go           1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
+XML          31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Markdown     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:waka-->
