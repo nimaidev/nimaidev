@@ -12,13 +12,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 1 hr 23 mins
+Total Time: 0 secs
 
-Python     41 mins         ████████████▒░░░░░░░░░░░░   48.86 %
-Java       24 mins         ███████▒░░░░░░░░░░░░░░░░░   29.30 %
-JSON       8 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
-YAML       6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
-Makefile   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
