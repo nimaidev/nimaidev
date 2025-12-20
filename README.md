@@ -7,4 +7,4 @@ I primarily work with Golang, Java, and Python on backend services, data systems
 ---
 
 ## Profiles
-- X : https://twitter.com/nimaidev_  
+- X : https://twitter.com/nimxch  
